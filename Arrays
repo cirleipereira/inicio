@@ -1,0 +1,32 @@
+Python
+produtos = ["Celular", "TV", "Notebook", "Computador", "Impressora", "Fone de ouvido", "Acessórios"]
+anos_de_nascimento = [1990, 1991, 1992, 1993, 1994, 1995, 1996]
+
+Impressão dos arrays
+print("Produtos da loja de eletrônicos:")
+for produto in produtos:
+    print(produto)
+
+print("\nAnos de nascimento de 7 pessoas:")
+for ano_de_nascimento in anos_de_nascimento:
+    print(ano_de_nascimento)
+
+Resultado
+
+Produtos da loja de eletrônicos:
+Celular
+TV
+Notebook
+Computador
+Impressora
+Fone de ouvido
+Acessórios
+
+Anos de nascimento de 7 pessoas:
+1990
+1991
+1992
+1993
+1994
+1995
+1996
